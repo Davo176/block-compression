@@ -1,0 +1,11 @@
+6,3,2,3,3,1
+o,SA
+w,WA
+
+oooooo
+wwwooo
+wwwooo
+
+ooowww
+wwwwww
+wwwwww

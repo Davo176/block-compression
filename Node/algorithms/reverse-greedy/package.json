@@ -1,0 +1,14 @@
+{
+    "name": "reverse-greedy",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "bin": {
+        "tester": "index.js"
+    },
+    "pkg": {
+        "targets": ["node16-linux-x64", "node16-macos-x64", "node16-win-x64"]
+    }    
+  }
+  

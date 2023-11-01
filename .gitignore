@@ -1,0 +1,7 @@
+Outputs/
+tmp/
+.vscode/
+CPP/quadtree.out
+CPP/windows.out
+*/**/node_modules
+Rust/rustyrle.pdb
